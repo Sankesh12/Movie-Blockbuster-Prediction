@@ -113,6 +113,14 @@
 
 - Seasonality trends
 
+# 📸 Project Screenshots
+
+## 1️⃣ Streamlit Web App Interface
+
+###  🎥 Web App Interface
+
+![App Screenshot](C:\Users\user\Desktop\TMDB_Movie/movie1.png)
+
 # 📈 Model Evaluation
 
 ## Evaluation Metrics Used:
