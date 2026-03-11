@@ -115,6 +115,7 @@
 
 # 📸 Project Screenshots
 ![image alt](https://github.com/Sankesh12/Movie-Blockbuster-Prediction/blob/a11f26b5a880be30e389f57e4a843baa96d531bc/movie1.png)
+![image alt](https://github.com/Sankesh12/Movie-Blockbuster-Prediction/blob/5d24262ae39701a146ff5171a389e0353b96011d/movie2.png)
 
 # 📈 Model Evaluation
 
