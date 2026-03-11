@@ -114,12 +114,7 @@
 - Seasonality trends
 
 # 📸 Project Screenshots
-
-## 1️⃣ Streamlit Web App Interface
-
-###  🎥 Web App Interface
-
-![App Screenshot](C:\Users\user\Desktop\TMDB_Movie/movie1.png)
+![image alt](https://github.com/Sankesh12/Movie-Blockbuster-Prediction/blob/a11f26b5a880be30e389f57e4a843baa96d531bc/movie1.png)
 
 # 📈 Model Evaluation
 
