@@ -9,8 +9,13 @@ model = pickle.load(open("model.pkl","rb"))
 # Save Model
 pickle.dump(model, open("model.pkl","wb"))
 
+st.set_page_config(
+    page_title="Movie Blockbuster Prediction",
+    page_icon="🎬",
+    layout="centered"
+)
 
-st.title("Movie Blockbuster Prediction")
+st.title("🎬 Movie Blockbuster Prediction")
 
 runtime = st.number_input("Runtime (90 – 180 minutes)")
 popularity = st.number_input("Popularity (1 – 100)")
